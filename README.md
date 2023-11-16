@@ -9,6 +9,6 @@ A list of concepts implemented within the project:
 * Threads
 * Semaphores
 * Time sharing
-* Synchronized and asynchronized context switch
+* Synchronous and asynchronous context switch
 * I/O operations
 * Kernel interfaces (ABI, C API, C++ API)
